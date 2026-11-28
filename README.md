@@ -1,2 +1,2 @@
-# mtc-infra-prod
-prod terraform Code for MTC course
+# This is a prod terraform repository for infra developers. 
+The infra was last modified by: Mario May Barzey
